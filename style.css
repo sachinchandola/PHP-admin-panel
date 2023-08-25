@@ -1,0 +1,31 @@
+.kk{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    padding-left: 100px;
+}
+.bgg{
+    background-color: blue;
+}
+.wel{
+    text-align: center;
+    background-color: rgb(222, 255, 191);
+    font-size: x-large;
+    height: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.ppp{
+    display: flex;
+    justify-content: space-between;
+
+}
+.table{
+    padding-top: 40px;
+   
+}
+.navv{
+   display: flex;
+   justify-content: space-between; 
+}
